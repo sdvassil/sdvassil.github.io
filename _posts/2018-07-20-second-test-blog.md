@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Testing Second Blog Post"
 date: 2018-07-20
 ---
 
